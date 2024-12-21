@@ -1,2 +1,0 @@
-# mywebsites
-Includes portfolio websites
